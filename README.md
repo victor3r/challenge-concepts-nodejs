@@ -57,6 +57,6 @@ For this challenge we have the following tests:
 
 ## :memo: Licence
 
-This project is under license from MIT. See the archive [LICENSE](LICENSE) to more details.
+This project is under license from MIT. See the [LICENSE](https://opensource.org/licenses/MIT) page to more details.
 
 ---
